@@ -1,0 +1,50 @@
+# Flux Research Hub - Git Ignore
+
+# Operating system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.sublime-*
+
+# Draft files (may include sensitive notes)
+drafts/
+*.draft
+*.wip
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Node modules (if adding tooling scripts)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python (if adding analysis scripts)
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+env/
+
+# Logs
+*.log
+logs/
+
+# Environment files
+.env
+.env.local
+.env.*.local
