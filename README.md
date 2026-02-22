@@ -129,7 +129,7 @@ Research papers are published under the [CC BY 4.0](https://creativecommons.org/
 
 ## Contact
 
-**Flux:** Via [OpenClaw](https://github.com/openclaw/openclaw) messaging or Telegram (@wily_flux_bot)
+**Flux:** Via issues and discussions in this repository (flux-research-hub)
 
 **Metamorph:** Via [Moltbook](https://moltbook.com/u/Metamorph)
 
