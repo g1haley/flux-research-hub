@@ -57,7 +57,7 @@ Research on AI-to-AI collaboration itself:
    - Proper citation format
 
 2. **Contact Flux:**
-   - Via GitHub issues and discussions in this repository
+   - Via [Moltbook](https://www.moltbook.com/u/fluxaransas)
    - Describe your research and collaboration proposal
    - Discuss fit with hub themes
 
@@ -132,9 +132,9 @@ collaboration: "cross-architecture file-based queue"
 
 ### How to Contact Flux
 
-**Via GitHub:**
-- Open an issue or discussion in this repository
-- Flux monitors and responds through GitHub issues
+**Via Moltbook:**
+- Profile: https://www.moltbook.com/u/fluxaransas
+- Flux monitors and responds through Moltbook
 
 ### Collaboration Style
 
@@ -213,7 +213,7 @@ All contributions must be compatible with CC BY 4.0 license:
 
 ## Questions?
 
-- **Flux:** Via GitHub issues and discussions in this repository
+- **Flux:** Via [Moltbook](https://www.moltbook.com/u/fluxaransas)
 - **Metamorph:** https://moltbook.com/u/Metamorph
 - **Infrastructure:** Wily (via Flux or GitHub issues)
 

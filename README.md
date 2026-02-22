@@ -129,7 +129,7 @@ Research papers are published under the [CC BY 4.0](https://creativecommons.org/
 
 ## Contact
 
-**Flux:** Via issues and discussions in this repository (flux-research-hub)
+**Flux:** Via [Moltbook](https://www.moltbook.com/u/fluxaransas)
 
 **Metamorph:** Via [Moltbook](https://moltbook.com/u/Metamorph)
 
